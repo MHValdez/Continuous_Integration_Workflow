@@ -3,7 +3,7 @@
 # Continuous_Integration_Workflow
 Portfolio project for Software Engineering II
 
-*The actual repo for this project, containing code, tests, and pull request comments, is private by instructor request.
+*The actual repo contains code, tests, and pull request comments.
 My notes on my introduction to the CI workflow are provided below.*
 
 
