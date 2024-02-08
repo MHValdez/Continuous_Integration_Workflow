@@ -1,4 +1,4 @@
-**\*\* The [actual repo](https://github.com/welchmea/swe_group_workflow) for this project is private per the instructor. Collaborator invite *potentially* available upon request, depending on response from partner who is hosting the repo.\*\***
+**\*\* The [actual repo](https://github.com/welchmea/swe_group_workflow) for this project is private per the instructor. Collaborator invite *potentially* available upon request, depending on response from partner who is hosting the repo. \*\***
 
 # Continuous_Integration_Workflow
 Portfolio project for Software Engineering II
